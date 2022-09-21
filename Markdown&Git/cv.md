@@ -55,4 +55,4 @@ Front-end: React
 Pre-Intermediate (**A2**)
 
 ### Photo card
-https://github.com/trueshno/SVChVS_Pas-PIR-201/blob/caf33acbe278cd212f1aa77b3b6a237b4dc27dd5/Markdown&Git/photo.jpg
+![photo card]https://github.com/trueshno/SVChVS_Pas-PIR-201/blob/caf33acbe278cd212f1aa77b3b6a237b4dc27dd5/Markdown&Git/photo.jpg
