@@ -55,4 +55,4 @@ Front-end: React
 Pre-Intermediate (**A2**)
 
 ### Photo card
-![photo card](/photo.jpg "Фотокарточка")
+![photo card](Markdown&Git/photo.jpg "Фотокарточка")
