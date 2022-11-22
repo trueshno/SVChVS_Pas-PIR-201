@@ -501,3 +501,194 @@ a:active{
     
     color: #CF404D;
 }
+
+.strip{
+    position: absolute;
+    height: 135px;
+    width: 1111px;
+    left: 0%;
+    right: 0%;
+    top: 1349px;
+
+    margin-left: 329px;
+    
+    background: #CF404D;
+    border-radius: 0px;
+}
+
+#text_strip{
+    position: absolute;
+    height: 36px;
+    left: 9.81%;
+    right: 57.38%;
+    top: 47px;
+    
+    font-family: 'Oswald';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 31px;
+    line-height: 36px;
+    
+    color: #FFFFFF;
+}
+
+#button_strip{
+    position: absolute;
+    width: 127px;
+    height: 47px;
+    right: 156px;
+    top: 44px;
+}
+
+#CallToAction{
+    box-sizing: border-box;
+
+    position: absolute;
+    height: 47px;
+    left: 0%;
+    right: 0%;
+    top: 0px;
+
+    background-color: rgba(125, 125, 215, 0);
+    border: 2px solid #FFFFFF;
+    border-radius: 4px;
+
+    font-family: 'Oswald';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 21px;
+
+    color: #FFFFFF;
+}
+
+.block_lightbox{
+    position: absolute;
+    width: 1111px;
+    height: 740px;
+    left: 329px;
+    right: 0%;
+    top: 1484px;
+    
+    background: #FFFFFF;
+    border-radius: 0px;
+}
+
+.text_lightbox{
+    position: absolute;
+    height: 82px;
+    left: 7.7%;
+    right: 7.7%;
+    top: 63px;
+}
+
+#text_lightbox{
+    position: absolute;
+    width: 321px;
+    height: 30px;
+    left: calc(50% - 321px/2);
+    top: 52px;
+    
+    font-family: 'Droid Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 19px;
+    line-height: 30px;
+    
+    text-align: center;
+    
+    color: rgba(115, 115, 115, 0.74);
+}
+
+.gallery{
+    position: absolute;
+    width: 960px;
+    height: 614px;
+    left: 7.7%;
+    right: 7.7%;
+    top: 63px;
+}
+
+.images img{
+    position: relative;
+    height: 215px;
+    left: 1.12%;
+    right: 76.01%;
+    top: 154px;
+
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+
+.contact_form{
+    position: absolute;
+    width: 1111px;
+    height: 521px;
+    left: 329px;
+    right: 0%;
+    top: 2224px;
+
+    background: #FAFAFA;
+    border-radius: 0px;
+
+    border-bottom: 1px solid #E1E1E1;
+    border-top: 1px solid #E1E1E1;
+}
+
+.block_contact_form{
+    position: absolute;
+    height: 393px;
+    left: 7.7%;
+    right: 7.7%;
+    top: 64px;
+}
+
+.text_contact_form{
+    position: absolute;
+    height: 82px;
+    left: 0%;
+    right: 0%;
+    top: 0px;
+}
+
+#text_contact_form{
+    position: absolute;
+    width: 321px;
+    height: 30px;
+    left: calc(50% - 321px/2);
+    top: 52px;
+    
+    font-family: 'Droid Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 19px;
+    line-height: 30px;
+    
+    text-align: center;
+    
+    color: rgba(115, 115, 115, 0.74);
+}
+
+.form{
+    position: absolute;
+    height: 234px;
+    left: 19%;
+    right: 19%;
+    top: 144px;
+}
+
+footer{
+    position: absolute;
+    width: 230px;
+    height: 20px;
+    left: 770px;
+    top: 2769px;
+
+    font-family: 'Oswald';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    
+    color: rgba(0, 0, 0, 0.74);
+}
